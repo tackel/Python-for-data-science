@@ -1,0 +1,9 @@
+To facilitate hands-on skills development and enable you to complete some of the labs in this course, we are providing you with a special feature code for IBM Cloud. 
+
+This feature code will enable you to either create an IBM Cloud account without a credit card, or extend the validity of your existing IBM Cloud trial. 
+
+Please check the box and click on the Open tool button below to obtain a unique Feature Code and copy it. You will be able to apply it using the instructions that follow in a subsequent lab in the course. 
+
+NOTE: If you have already applied your IBM Cloud feature code in another course/lab to create an IBM Cloud account or extend its trial, please skip this item, as the code can only be used once. 
+
+e035e5bfdec08c805f97b6b7daa719f0
